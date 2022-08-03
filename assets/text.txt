@@ -1,0 +1,2 @@
+This file directory contains css and javascript used in the project
+Along with the images used.
